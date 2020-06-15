@@ -1,2 +1,7 @@
 Test1
+<<<<<<< HEAD
 Master Test1
+=======
+­×§ï WorkTest_cat
+­×§ï WorkTest_cat2
+>>>>>>> WorkTest_cat
